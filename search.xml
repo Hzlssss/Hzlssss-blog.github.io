@@ -20,6 +20,17 @@
     
     
     <entry>
+      <title></title>
+      <link href="/extra_bangumis.json"/>
+      <url>/extra_bangumis.json</url>
+      
+        <content type="html"><![CDATA[{"watchedExtra":[{"title":"缘之空","type":"番剧","area":"日本","cover":"https://cdn.jsdelivr.net/gh/mmdjiji/bangumis@main/Yosuga-no-Sora/cover.jpg","totalCount":"全12话","id":0,"follow":"不可用","view":"不可用","danmaku":"不可用","coin":"不可用","score":"不可用","des":"远离都市的田园小镇，奥木染。春日野悠带着妹妹穹，来到了这座城镇。坐落在这里的是，儿时暑假经常造访的充满回忆的已故祖父的家。双亲因意外事故而丧生，变得无依无靠..."}]}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>关于</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
@@ -36,17 +47,6 @@
       <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/extra_bangumis.json"/>
-      <url>/extra_bangumis.json</url>
-      
-        <content type="html"><![CDATA[{"watchedExtra":[{"title":"缘之空","type":"番剧","area":"日本","cover":"https://cdn.jsdelivr.net/gh/mmdjiji/bangumis@main/Yosuga-no-Sora/cover.jpg","totalCount":"全12话","id":0,"follow":"不可用","view":"不可用","danmaku":"不可用","coin":"不可用","score":"不可用","des":"远离都市的田园小镇，奥木染。春日野悠带着妹妹穹，来到了这座城镇。坐落在这里的是，儿时暑假经常造访的充满回忆的已故祖父的家。双亲因意外事故而丧生，变得无依无靠..."}]}]]></content>
       
     </entry>
     
@@ -97,9 +97,9 @@
     
     
     <entry>
-      <title>音乐</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
+      <title>电影</title>
+      <link href="/movie/index.html"/>
+      <url>/movie/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -108,9 +108,9 @@
     
     
     <entry>
-      <title>电影</title>
-      <link href="/movie/index.html"/>
-      <url>/movie/index.html</url>
+      <title>音乐</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
